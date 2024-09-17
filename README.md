@@ -3,11 +3,11 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-<b><span style="font-size: 24px;">👋Olá Dev, Eu Sou Eldo Jr</span></b>
+<b><span style="font-size: 24px;">👋Hello Dev, I am Eldo Jr.</span></b>
 </p>
 
 
-<p align="center">Sou programador web inovador com um forte foco em performance e escalabilidade. Utilizo tecnologias como React, para desenvolver aplicações web modernas e eficientes. Sempre em busca de novos desafios e oportunidades para aprender e crescer.</p>&nbsp;
+<p align="center">I'm an innovative web developer with a strong focus on performance, scalability, and continuous growth. I specialize in building modern, efficient web applications and am always seeking new challenges and opportunities to enhance my skills and expertise.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=eldoJr&theme=radical&mode=weekly" />
@@ -16,9 +16,9 @@
 
  &nbsp;
 
-## Minhas Habilidades
+## My Skills
 
-#### Stack Principal:
+#### Primary Stack:
 
  <div style="display: inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -37,32 +37,36 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Stack Secundário
+#### Secondary Stack
 
+<img align="center" alt="C" src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white" />&nbsp;
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
 <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
 
-#### Estudando no momento:
+#### Currently Studying:
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-3.2-brightgreen?style=for-the-badge&logo=vue.js&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-15-red?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 
-#### Base de dados:
+#### Database:
 
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-#### Ferramentas para Estação de Desenvolvimento:
+#### My Tools for Development Environment:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)&nbsp;
-![NetBeans](https://img.shields.io/badge/Apache_NetBeans-EA192C?style=for-the-badge&logo=netbeans&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Chrome](https://img.shields.io/badge/Chrome-EA192C?style=for-the-badge&logo=chrome&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-E95420?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![ESLint](https://img.shields.io/badge/ESLint-EA192C?style=for-the-badge&logo=eslint&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub--red?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
 
-## Contactos:
+## Contacts:
 
 <div> 
 <a href="https://www.instagram.com/elldo.jr?igsh=azJzYmJ0M240bDN0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
