@@ -1,6 +1,4 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="./Header.png" />
-&nbsp;&nbsp;&nbsp;
 
 <p align="center">
 <b><span style="font-size: 24px;">👋Hello Dev, I am Eldo Jr.</span></b>
