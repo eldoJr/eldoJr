@@ -14,10 +14,12 @@ Hello Dev, I'm Eldo Macuacua!
 
 <p align="center">I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=eldoJr&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-vercel.com/eldoJr/api/top-langs/?username=eldoJr&show_icons=true&theme=radical&layout=compact" />
- </div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Eldo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eldoJr&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center"> Focus on Goals🔥 </p>
+</p>
 
  &nbsp;
 
@@ -91,8 +93,7 @@ Hello Dev, I'm Eldo Macuacua!
     <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-302E31?logo=sublime-text&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-&nbsp;
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldoJr&hide_progress=true)              
+&nbsp;          
 &nbsp;
 
 ## Contacts:
