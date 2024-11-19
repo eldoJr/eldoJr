@@ -7,7 +7,7 @@ Hello Dev, I'm Eldo Macuacua!
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT++Student;Frontend+Web+Developer;Astronomy%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/eldoJr/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT++Student;Frontend+Web+Developer;Astronomy%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <hr/>
 
