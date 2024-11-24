@@ -2,23 +2,29 @@
 Hello Dev, I'm Eldo Macuacua!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <img src="https://komarev.com/ghpvc/?username=eldoJr&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="eldoJr" />
-
 <br/>
 
+<div align="center">
+  <img alt="Logo" src="https://github.com/eldoJr/eldomacuacua.github.io/blob/main/public/icons/icon-256x256.png" width="100" />
+</div>
 
 <p align="center">
-  <a href="https://github.com/eldoJr/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT++Student;Frontend+Web+Developer;Astronomy%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/eldoJr/readme-typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Student;Frontend+Web+Developer;Passionate+About+AI,+ML,+and+Astronomy;Continuous+Learner+and+Innovator;Building+the+Future+One+Line+at+a+Time&center=true&vCenter=true&width=600&height=50&color=f0f1f7&pause=1500&size=22">
+  </a>
 </p>
 <hr/>
 
 
-<p align="center">I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.</p>&nbsp;
+<p align="center">
+  I am a creative individual, known for being time-punctual and dedicated. My work ethic is rooted in strong moral values and principles, complemented by a high energy level. I possess honed communication          skills, strong organizational capabilities, and a meticulous attention to detail. A goal-oriented professional, I strive to achieve excellence in every endeavor I undertake.
+</p>&nbsp;
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Eldo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eldoJr&theme=monokai-metallian&hide_border=true"/>
   </a>
-  <p align="center"> Focus on Goals🔥 </p>
+  <p align="center"> Focus on the goal!🔥 </p>
 </p>
 
  &nbsp;
@@ -67,21 +73,24 @@ Hello Dev, I'm Eldo Macuacua!
 </p>
 
 
-### 💻 Software and Tools
+#### 💻 Software and Tools
 
 <p>
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu%20-%23E95420.svg?logo=ubuntu&logoColor=white"></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-302E31?logo=sublime-text&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="NetBeans" src="https://img.shields.io/badge/NetBeans%20IDE%20-%231B6AC6.svg?logo=apache-netbeans-ide&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code%20-%23007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="XAMPP" src="https://img.shields.io/badge/XAMPP%20-%23FB7A24.svg?logo=xampp&logoColor=white"></a>
+    <a href="#"><img alt="MySQL Workbench" src="https://img.shields.io/badge/MySQL%20Workbench%20-%2300F.svg?logo=mysql&logoColor=white"></a>
 </p>
 &nbsp;          
 &nbsp;
