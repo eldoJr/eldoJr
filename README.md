@@ -24,6 +24,9 @@ Hello Dev, I'm Eldo Macuacua!
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Eldo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eldoJr&theme=monokai-metallian&hide_border=true"/>
   </a>
+  <a>
+    ![eldojr's top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eldoJr&layout=compact&bg_color=ffffff&title_color=ff5733&text_color=000000&border_color=dddddd)
+  </a>
   <p align="center"> Focus on the goal!🔥 </p>
 </p>
 
