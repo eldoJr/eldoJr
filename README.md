@@ -5,7 +5,7 @@ Hi, I'm Eldo Macuacua
 <br/>
 
 <div align="center">
-  <img alt="Logo" src="https://github.com/eldoJr/eldomacuacua.github.io/blob/main/public/icons/icon-256x256.png" width="100" />
+  <img alt="Logo" src="https://github.com/eldoJr/eldoJr/blob/main/icon-192x192.png" width="100" />
 </div>
 
 <p align="center">
