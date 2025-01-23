@@ -21,7 +21,7 @@ Hi, I'm Eldo Macuacua
 </p>&nbsp;
 
 <p align="left">
-<a href="https://github.com/DevGoyalG">
+<a href="https://github.com/eldoJr">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eldoJr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eldoJr&layout=compact&langs_count=8&theme=algolia"/>
 </a>
