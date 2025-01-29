@@ -27,7 +27,7 @@ Hi, I'm Eldo Macuácua
 </a>
 </p>
  &nbsp;
-## 🔥 Streak Stats
+## 🔥Streak Stats
 
 #### 👨‍💻 Primary Stack:
 <p>
