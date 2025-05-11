@@ -15,7 +15,6 @@ Hi, I'm Eldo Macuácua
 </p>
 <hr/>
 
-
 <p align="center">
   I am a creative individual, known for being time-punctual and dedicated. My work ethic is rooted in strong moral values and principles, complemented by a high energy level. I possess honed communication          skills, strong organizational capabilities, and a meticulous attention to detail. A goal-oriented professional, I strive to achieve excellence in every endeavor I undertake.
 </p>&nbsp;
