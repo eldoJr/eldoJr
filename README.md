@@ -10,13 +10,13 @@ Hi, I'm Eldo Macuácua
 
 <p align="center">
   <a href="https://github.com/eldoJr/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Student;Frontend+Web+Developer;AI%20|%20ML%20|%20Astronomy%20Enthusiastic;Building+the+Future+One+Line+at+a+Time&center=true&vCenter=true&width=600&height=50&pause=1500&size=22">
+      <img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Student;Fullstack+Developer;AI%20|%20ML%20Enthusiastic;Building+the+Future+One+Line+at+a+Time&center=true&vCenter=true&width=600&height=50&pause=1500&size=22">
   </a>
 </p>
 <hr/>
 
 <p align="center">
-  I am a creative individual, known for being time-punctual and dedicated. My work ethic is rooted in strong moral values and principles, complemented by a high energy level. I possess honed communication          skills, strong organizational capabilities, and a meticulous attention to detail. A goal-oriented professional, I strive to achieve excellence in every endeavor I undertake.
+I’m a Fullstack Developer passionate about crafting scalable applications and seamless user experiences. Skilled in both frontend and backend technologies, I enjoy bridging design with functionality—turning ideas into clean, maintainable code. I value collaboration, problem-solving, and continuous learning, always exploring new tools and frameworks to stay sharp. My focus is on building projects that are efficient, user-friendly, and impactful, while contributing to the open-source community along the way.
 </p>&nbsp;
 
 <p align="left">
