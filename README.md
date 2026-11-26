@@ -4,27 +4,16 @@ Hi, I'm Eldo Macuácua
  <img src="https://komarev.com/ghpvc/?username=eldoJr&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="eldoJr" />
 <br/>
 
-<div align="center">
-  <img alt="Logo" src="https://github.com/eldoJr/eldoJr/blob/main/icon-192x192.png" width="100" />
-</div>
-
 <p align="center">
   <a href="https://github.com/eldoJr/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Student;Fullstack+Developer;AI%20|%20ML%20Enthusiastic;Building+the+Future+One+Line+at+a+Time&center=true&vCenter=true&width=600&height=50&pause=1500&size=22">
+      <img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Student;iOS+Android+Web+and+App+Developer;AI%20|%20ML%20Enthusiast;Building+the+Future+One+Line+at+a+Time&center=true&vCenter=true&width=600&height=50&pause=1500&size=22">
   </a>
 </p>
 <hr/>
 
 <p align="center">
-I’m a Fullstack Developer passionate about crafting scalable applications and seamless user experiences. Skilled in both frontend and backend technologies, I enjoy bridging design with functionality—turning ideas into clean, maintainable code. I value collaboration, problem-solving, and continuous learning, always exploring new tools and frameworks to stay sharp. My focus is on building projects that are efficient, user-friendly, and impactful, while contributing to the open-source community along the way.
+  I’m a iOS, Android, Web & App Developer with a keen interest in AIML, concentrating on designing scalable apps and creating smooth user experiences. Skilled in mobile, web and backend platforms, I connect design sensibilities with technical capabilities to deliver well-designed and efficient code from innovative concepts. Motivated by solving problems and constantly upgrading myself, I experiment with new tools and workflows to create fast and effective products.
 </p>&nbsp;
-
-<p align="left">
-<a href="https://github.com/eldoJr">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eldoJr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eldoJr&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
  &nbsp;
  
 ## 🔥Streak Stats
@@ -87,27 +76,19 @@ I’m a Fullstack Developer passionate about crafting scalable applications and 
 &nbsp;          
 &nbsp;
 
-## Contacts:
+## 📊 GitHub Stats
 
-<div> 
-<a href="https://www.instagram.com/elldo.jr?igsh=azJzYmJ0M240bDN0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:eldomacuacua@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/eldomacuacua/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://www.facebook.com/profile.php?id=100070029053665&mibextid=LQQJ4d)" target="_blank">
-  <img src="https://img.shields.io/badge/-Facebook-%233b5998?style=for-the-badge&logo=facebook&logoColor=white">
-</a>
-<a href="https://github.com/eldoJr target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://t.me/+918141139042" target="_blank">
-  <img src="https://img.shields.io/badge/-Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-  
-## 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=eldoJr&theme=algolia)](https://github.com/DevGoyalG/github-profile-trophy)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eldoJr&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="53%" />
+</p>
 
-</div>&nbsp;&nbsp;
- 
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eldoJr&theme=tokyonight" alt="Languages by Repo" width="30%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eldoJr&theme=tokyonight" alt="Languages by Commit" width="30%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eldoJr&theme=tokyonight" alt="Stats Summary" width="30%" />
+</p>
+
+
+
+## Let's Build Something Amazing! 📱
